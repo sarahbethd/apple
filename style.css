@@ -1,0 +1,44 @@
+
+.section2 {
+    display: block;
+    width: 20% ;
+    margin-right: 60px;
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.section3 {
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+}
+
+.section4img {
+        display: block;
+        width: 70% ;
+        margin-right: 400px;
+        margin-left: -100px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+}
+.section4finishpad {
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+}
+.section5 {
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+}
+.section5textpad {
+    padding-top: 60px;
+    padding-right:30px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+}
+
